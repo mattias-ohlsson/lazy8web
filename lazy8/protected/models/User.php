@@ -21,7 +21,7 @@
 
 class User extends CActiveRecord
 {
-	public static $Version=array("Lazy8Web 02.02 2011-02-23");
+	public static $Version=array("Lazy8Web 02.03 2011-02-27");
 	
 	private $_confirmPassword;
 	public function getConfirmPassword(){

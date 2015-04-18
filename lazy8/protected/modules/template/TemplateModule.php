@@ -2,7 +2,7 @@
 
 class TemplateModule extends CWebModule
 {
-	public static $templatesVersion="Templates 01.01 2011-02-22"; 
+	public static $templatesVersion="Templates 01.02 2011-02-27"; 
 	public function init()
 	{
 		// this method is called when the module is being created

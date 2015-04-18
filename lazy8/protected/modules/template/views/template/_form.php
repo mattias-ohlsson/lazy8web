@@ -125,7 +125,7 @@
 		    <th><?php echo CHtml::activeLabelEx($templateRows[0],'defaultAccountId',array('class'=>'help','title'=>Yii::t('lazy8','contexthelp.template.defaultAccountId'),'onclick'=>'alert(this.title)')); ?></th>
 		    <th><?php echo CHtml::activeLabelEx($templateRows[0],'defaultValue',array('class'=>'help','title'=>Yii::t('lazy8','contexthelp.template.defaultValue'),'onclick'=>'alert(this.title)')); ?></th>
 		    <th><?php echo CHtml::activeLabelEx($templateRows[0],'phpFieldCalc',array('class'=>'help','title'=>Yii::t('lazy8','contexthelp.phpFieldCalc'),'onclick'=>'alert(this.title)')); ?></th>
-		    <th><?php echo CHtml::activeLabelEx($templateRows[0],'actions',array('class'=>'help','title'=>Yii::t('lazy8','contexthelp.actions'),'onclick'=>'alert(this.title)')); ?></th>
+		    <th><?php echo CHtml::label(Yii::t('lazy8','Actions'),false,array('class'=>'help','title'=>Yii::t('lazy8','contexthelp.actions'),'onclick'=>'alert(this.title)')); ?></th>
 		  </tr>
 		  </thead>
 		  <tbody>

@@ -170,6 +170,9 @@
     <message category="lazy8" key="contexthelp.isDebit">
       <translation>Hvis det er sandt så denne række vil være en debitere beløb. Ellers er det en kreditbeløb</translation>
     </message>
+    <message category="lazy8" key="Is final balance">
+      <translation>Is final balance</translation>
+    </message>
     <message category="lazy8" key="contexthelp.isFinalBalance">
       <translation>Hvis det er sandt så er denne række vil blive brugt til at afbalancere transaktionen. Det betyder, at værdien af denne række er summen af de kreditter minus debet og det er sat i det rette debet eller kredit kolonnen</translation>
     </message>
@@ -1991,6 +1994,9 @@
     <message category="lazy8" key="contexthelp.isDebit">
       <translation>Als dat waar is dan is het deze rij zal een debet-bedrag. Anders is het een kredietbedrag</translation>
     </message>
+    <message category="lazy8" key="Is final balance">
+      <translation>Is final balance</translation>
+    </message>
     <message category="lazy8" key="contexthelp.isFinalBalance">
       <translation>Als dat waar is dan is deze regel zal worden gebruikt om de transactie evenwicht. Dat betekent dat de waarde van deze rij is de som van de vorderingen minus de afschrijvingen en het is gezet in de juiste debet of credit kolom</translation>
     </message>
@@ -2152,9 +2158,6 @@
     </message>
     <message category="lazy8" key="contexthelp.BalanceRow">
       <translation>Als u op deze toets en vervolgens de debet / credit waarde zal veranderen naar een nummer dat deze transactie, zodat het totaal van de automatische incasso&#39;s en het totaal van de kredieten gelijk zijn saldi. Deze knop is ingedrukt normaal voor de binnenkomst van de laatste rij van de transactie.</translation>
-    </message>
-    <message category="lazy8" key="Select company/period">
-      <translation>Selecteer Bedrijf / Periode</translation>
     </message>
     <message category="lazy8" key="Are you sure? This will delete all current standard reports.">
       <translation>Ben je zeker? Hiermee worden alle huidige standaard rapporten.</translation>
@@ -3482,6 +3485,9 @@
     <message category="lazy8" key="Select a file and try again">
       <translation>Selecteer een bestand en probeer het opnieuw</translation>
     </message>
+    <message category="lazy8" key="Select company/period">
+      <translation>Select gezelschap / periode</translation>
+    </message>
     <message category="lazy8" key="Select Report">
       <translation>Selecteer Verslag</translation>
     </message>
@@ -3819,6 +3825,9 @@ For more information go to <notrans text="&lt;a href=&quot;http://www.lazy8.nu&q
     <message category="lazy8" key="contexthelp.isDebit">
       <translation>If true then the this row will be a debit amount. Otherwise it is a credit amount</translation>
     </message>
+    <message category="lazy8" key="Is final balance">
+      <translation>Is final balance</translation>
+    </message>
     <message category="lazy8" key="contexthelp.isFinalBalance">
       <translation>If true then this row will be used to balance the transaction. That means the value of this row is sum of the credits minus the debits and it is put into the appropriate debit or credit column</translation>
     </message>
@@ -3948,9 +3957,6 @@ For more information go to <notrans text="&lt;a href=&quot;http://www.lazy8.nu&q
     </message>
     <message category="lazy8" key="contexthelp.BalanceRow">
       <translation>If you hit this button then the debit/credit value will change to a number that balances this transaction so that the total of the debits and the total of the credits are equal.  This button is normally pressed for entry of the last row of the transaction.</translation>
-    </message>
-    <message category="lazy8" key="Select company/period">
-      <translation>Select company/period</translation>
     </message>
 <message category="lazy8" key="Are you sure? This will delete all current standard reports."><translation>Are you sure? This will delete all current standard reports.</translation></message>
 <message category="lazy8" key="Category"><translation>Category</translation></message>
@@ -5137,6 +5143,9 @@ Use the "balance" button to write the last rows amount.</translation>
     <message category="lazy8" key="Select a file and try again">
       <translation>Select a file and try again</translation>
     </message>
+    <message category="lazy8" key="Select company/period">
+      <translation>Select company/period</translation>
+    </message>
     <message category="lazy8" key="Select Report">
       <translation>Select Report</translation>
     </message>
@@ -5466,6 +5475,9 @@ Use the "balance" button to write the last rows amount.</translation>
     </message>
     <message category="lazy8" key="contexthelp.isDebit">
       <translation>Jos totta niin tämä rivi tulee veloittaa summan. Muuten se on luoton määrä</translation>
+    </message>
+    <message category="lazy8" key="Is final balance">
+      <translation>Is final balance</translation>
     </message>
     <message category="lazy8" key="contexthelp.isFinalBalance">
       <translation>Jos totta, niin tämä rivi käytetään tasapainottamaan kaupan. Tämä tarkoittaa arvoa tällä rivillä on hyvitysten summa miinus menot ja se on otettu asianmukaiset velka tai sarake</translation>
@@ -7288,6 +7300,9 @@ Use the "balance" button to write the last rows amount.</translation>
     <message category="lazy8" key="contexthelp.isDebit">
       <translation>Si vrai, alors la ligne ce sera un montant de débit. Sinon, il est un montant de crédit</translation>
     </message>
+    <message category="lazy8" key="Is final balance">
+      <translation>Is final balance</translation>
+    </message>
     <message category="lazy8" key="contexthelp.isFinalBalance">
       <translation>Si cela est vrai alors cette ligne sera utilisée pour équilibrer la transaction. Cela signifie que la valeur de cette ligne est la somme des crédits moins les débits et il est mis dans le débit approprié ou d&#39;une colonne de crédit</translation>
     </message>
@@ -7449,9 +7464,6 @@ Use the "balance" button to write the last rows amount.</translation>
     </message>
     <message category="lazy8" key="contexthelp.BalanceRow">
       <translation>Si vous cliquez sur ce bouton, la valeur de crédit / débit va changer à un certain nombre que les soldes de cette opération de telle sorte que le total des débits et le total des crédits sont égaux. Ce bouton est pressé normalement à l&#39;entrée de la dernière ligne de la transaction.</translation>
-    </message>
-    <message category="lazy8" key="Select company/period">
-      <translation>Sélectionnez Société / Période</translation>
     </message>
     <message category="lazy8" key="Are you sure? This will delete all current standard reports.">
       <translation>Etes-vous sûr? Cette opération va supprimer tous les rapports standard actuel.</translation>
@@ -8779,6 +8791,9 @@ Use the "balance" button to write the last rows amount.</translation>
     <message category="lazy8" key="Select a file and try again">
       <translation>Sélectionnez un fichier et essayez à nouveau</translation>
     </message>
+    <message category="lazy8" key="Select company/period">
+      <translation>Sélection de l&#39;entreprise / période</translation>
+    </message>
     <message category="lazy8" key="Select Report">
       <translation>Sélectionnez Rapport</translation>
     </message>
@@ -9109,6 +9124,9 @@ Use the "balance" button to write the last rows amount.</translation>
     <message category="lazy8" key="contexthelp.isDebit">
       <translation>Wenn true, dann diese Zeile wird ein Soll-Betrag sein. Ansonsten ist es ein Kreditbetrag</translation>
     </message>
+    <message category="lazy8" key="Is final balance">
+      <translation>Is final balance</translation>
+    </message>
     <message category="lazy8" key="contexthelp.isFinalBalance">
       <translation>Wenn true wird diese Zeile verwendet, um die Transaktion auszugleichen. Das bedeutet, dass der Wert dieser Reihe ist die Summe der Kredite abzüglich der Belastungen, und es ist in die entsprechende Bank-oder Kreditkarte Spalte setzen</translation>
     </message>
@@ -9270,9 +9288,6 @@ Use the "balance" button to write the last rows amount.</translation>
     </message>
     <message category="lazy8" key="contexthelp.BalanceRow">
       <translation>Wenn Sie diese Taste drücken dann die Soll / Haben-Wert wird auf eine Reihe, dass diese Transaktion, so dass die Summe der Belastungen und der Summe der Kredite gleich sind Waagen ändern. Diese Taste wird normalerweise für die Einreise der letzten Zeile der Transaktion gedrückt.</translation>
-    </message>
-    <message category="lazy8" key="Select company/period">
-      <translation>Select Company / Epoche</translation>
     </message>
     <message category="lazy8" key="Are you sure? This will delete all current standard reports.">
       <translation>Sind Sie sicher? Dies löscht alle gängigen Standard-Reports.</translation>
@@ -10600,6 +10615,9 @@ Use the "balance" button to write the last rows amount.</translation>
     <message category="lazy8" key="Select a file and try again">
       <translation>Wählen Sie eine Datei und versuchen Sie es erneut</translation>
     </message>
+    <message category="lazy8" key="Select company/period">
+      <translation>Wählen Sie Unternehmen / Zeit</translation>
+    </message>
     <message category="lazy8" key="Select Report">
       <translation>Wählen Sie Bericht</translation>
     </message>
@@ -10930,6 +10948,9 @@ Use the "balance" button to write the last rows amount.</translation>
     <message category="lazy8" key="contexthelp.isDebit">
       <translation>Se fosse vero questo allora la riga sarà un ammontare di debito. Altrimenti è un importo a credito</translation>
     </message>
+    <message category="lazy8" key="Is final balance">
+      <translation>Is final balance</translation>
+    </message>
     <message category="lazy8" key="contexthelp.isFinalBalance">
       <translation>Se fosse vero allora questa riga sarà utilizzata per bilanciare la transazione. Ciò significa che il valore di questa riga è somma dei crediti meno i debiti e si è messo in debito o la colonna appropriata di credito</translation>
     </message>
@@ -11091,9 +11112,6 @@ Use the "balance" button to write the last rows amount.</translation>
     </message>
     <message category="lazy8" key="contexthelp.BalanceRow">
       <translation>Se si preme questo tasto, il valore / credito di debito si trasformerà in un numero che bilancia questa operazione in modo che il totale dei debiti e il totale dei crediti sono uguali. Questo pulsante è premuto normalmente per l&#39;ingresso dell&#39;ultima riga della transazione.</translation>
-    </message>
-    <message category="lazy8" key="Select company/period">
-      <translation>Seleziona Azienda / Periodo</translation>
     </message>
     <message category="lazy8" key="Are you sure? This will delete all current standard reports.">
       <translation>Sei sicuro? Ciò eliminerà tutti i rapporti attuali standard.</translation>
@@ -12421,6 +12439,9 @@ Use the "balance" button to write the last rows amount.</translation>
     <message category="lazy8" key="Select a file and try again">
       <translation>Selezionare un file e riprovare</translation>
     </message>
+    <message category="lazy8" key="Select company/period">
+      <translation>Selezionare azienda / periodo</translation>
+    </message>
     <message category="lazy8" key="Select Report">
       <translation>Selezionare Report</translation>
     </message>
@@ -12751,6 +12772,9 @@ Use the "balance" button to write the last rows amount.</translation>
     <message category="lazy8" key="contexthelp.isDebit">
       <translation>Hvis sant da det denne raden vil være en belastning beløp. Ellers er det en kreditt beløp</translation>
     </message>
+    <message category="lazy8" key="Is final balance">
+      <translation>Is final balance</translation>
+    </message>
     <message category="lazy8" key="contexthelp.isFinalBalance">
       <translation>Hvis sant da denne raden skal brukes til å balansere transaksjonen. Det betyr at verdien av denne raden er summen av studiepoeng minus debiteringer og det er satt i riktig debet-eller kredittkort kolonne</translation>
     </message>
@@ -12912,9 +12936,6 @@ Use the "balance" button to write the last rows amount.</translation>
     </message>
     <message category="lazy8" key="contexthelp.BalanceRow">
       <translation>Hvis du treffer på denne knappen så debet / kreditt-verdi vil forandre seg til et nummer som balanserer denne transaksjonen, slik at summen av belastninger og summen av studiepoengene er like. Denne knappen er normalt trykkes for oppføring av den siste raden av transaksjonen.</translation>
-    </message>
-    <message category="lazy8" key="Select company/period">
-      <translation>Velg Firma / Periode</translation>
     </message>
     <message category="lazy8" key="Are you sure? This will delete all current standard reports.">
       <translation>Er du sikker? Dette vil slette alle nåværende standard rapporter.</translation>
@@ -14242,6 +14263,9 @@ Use the "balance" button to write the last rows amount.</translation>
     <message category="lazy8" key="Select a file and try again">
       <translation>Velg en fil og prøv igjen</translation>
     </message>
+    <message category="lazy8" key="Select company/period">
+      <translation>Velg selskap / periode</translation>
+    </message>
     <message category="lazy8" key="Select Report">
       <translation>Velg Rapporter</translation>
     </message>
@@ -14572,6 +14596,9 @@ Use the "balance" button to write the last rows amount.</translation>
     <message category="lazy8" key="contexthelp.isDebit">
       <translation>Если так, то эта строка будет дебетовые суммы. В противном случае сумма кредита</translation>
     </message>
+    <message category="lazy8" key="Is final balance">
+      <translation>Is final balance</translation>
+    </message>
     <message category="lazy8" key="contexthelp.isFinalBalance">
       <translation>Если так, то эта строка будет использоваться для баланса сделки. Это означает, что значение этой строки сумма кредитов минус дебет и оно помещается в соответствующую дебетовую или кредитную колонке</translation>
     </message>
@@ -14733,9 +14760,6 @@ Use the "balance" button to write the last rows amount.</translation>
     </message>
     <message category="lazy8" key="contexthelp.BalanceRow">
       <translation>Если вы нажмете эту кнопку, затем кредитной / дебетовой значение изменится на число, что остатки этой сделки так, чтобы общая сумма дебета и всего кредитов равны. Эта кнопка нажата, как правило, для вступления в последней строке транзакции.</translation>
-    </message>
-    <message category="lazy8" key="Select company/period">
-      <translation>Выберите компании / Период</translation>
     </message>
     <message category="lazy8" key="Are you sure? This will delete all current standard reports.">
       <translation>Вы уверены? Это приведет к удалению всех существующих стандартных отчетов.</translation>
@@ -16063,6 +16087,9 @@ Use the "balance" button to write the last rows amount.</translation>
     <message category="lazy8" key="Select a file and try again">
       <translation>Выберите файл и повторите попытку</translation>
     </message>
+    <message category="lazy8" key="Select company/period">
+      <translation>Выберите компании / период</translation>
+    </message>
     <message category="lazy8" key="Select Report">
       <translation>Выбор отчета</translation>
     </message>
@@ -16393,6 +16420,9 @@ Use the "balance" button to write the last rows amount.</translation>
     <message category="lazy8" key="contexthelp.isDebit">
       <translation>Si cierto, entonces la fila será una cantidad de débito. De lo contrario, es una cantidad de crédito</translation>
     </message>
+    <message category="lazy8" key="Is final balance">
+      <translation>Is final balance</translation>
+    </message>
     <message category="lazy8" key="contexthelp.isFinalBalance">
       <translation>Si cierto, entonces esta fila se utilizará para equilibrar la transacción. Eso significa que el valor de esta fila es la suma de los ingresos menos pagos y que se pone en el caso de débito o de la columna de crédito</translation>
     </message>
@@ -16554,9 +16584,6 @@ Use the "balance" button to write the last rows amount.</translation>
     </message>
     <message category="lazy8" key="contexthelp.BalanceRow">
       <translation>Si usted golpea el botón, la tarjeta de débito / crédito el valor cambiará a un número que los saldos de esta transacción para que el total de los débitos y el total de los créditos son iguales. Este botón es normalmente presiona para la entrada de la última fila de la transacción.</translation>
-    </message>
-    <message category="lazy8" key="Select company/period">
-      <translation>Seleccione la empresa / Periodo</translation>
     </message>
     <message category="lazy8" key="Are you sure? This will delete all current standard reports.">
       <translation>¿Estás seguro? Esto eliminará todos los informes estándar actual.</translation>
@@ -17884,6 +17911,9 @@ Use the "balance" button to write the last rows amount.</translation>
     <message category="lazy8" key="Select a file and try again">
       <translation>Seleccione un archivo y vuelva a intentarlo</translation>
     </message>
+    <message category="lazy8" key="Select company/period">
+      <translation>Seleccione la compañía / período</translation>
+    </message>
     <message category="lazy8" key="Select Report">
       <translation>Seleccione Informe</translation>
     </message>
@@ -18198,8 +18228,11 @@ Use the "balance" button to write the last rows amount.</translation>
     <message category="lazy8" key="contexthelp.isDebit">
       <translation>Om sant då den här raden kommer att bli en debetbelopp. Annars är det en kreditbelopp</translation>
     </message>
+    <message category="lazy8" key="Is final balance">
+      <translation>Är balans- raden</translation>
+    </message>
     <message category="lazy8" key="contexthelp.isFinalBalance">
-      <translation>Om sant så här raden kommer att användas för att balansera verifikationen. Det innebär att värdet på denna rad är summan av de krediter minus debet och den sätts i rätt debet eller kredit kolumnen</translation>
+      <translation>Om sant kommer denna rad att användas för att balansera verifikationen. Det innebär att värdet på denna rad är summan av de krediter minus debet och den sätts i rätt debet eller kredit kolumnen</translation>
     </message>
     <message category="lazy8" key="contexthelp.phpFieldCalc">
       <translation>Här kan du ange en beräkning för raden. Ett exempel på en beräkning är &quot;debit = row1 * 0.25&quot; vilket betyder ta den första raden och multiplicera det med 0,25 och sätta in resultatet i debet kolumnen. En liten förändring med föregående exempel är: credit = round (row1 * 0.25, 0) vilket innebär att runda beräkningen till närmaste heltal. Eller så kan du ha: debit = ceil(row1 * 0.25) vilket innebär att avrunda den beräkning av till närmast högre heltal eller ersätta &quot;ceil&quot; med &quot;floor&quot; för att runda nedåt endast till närmaste heltal. Fraktioner måste ha en period decimaltecken. Du kan sätta nästan alla beräkningar här du kan tänka dig och det följer reglerna för PHP-programmering. Däremot följer nyckelnamnen debit-, credit-och rowX inte det normala php bestämmelser som skulle ange att dessa variabler måste börja med en $. Dessa nyckelnamnen ersätts med lämpliga riktiga php variabel som är ganska komplicerat.</translation>
@@ -18363,7 +18396,7 @@ Use the "balance" button to write the last rows amount.</translation>
     <message category="lazy8" key="contexthelp.BalanceRow">
       <translation>Om du använder den här knappen kommer kredit/debit värde ändras till ett antal som balanserar denna verifikation, så att summan av debiteringar och summan av de krediter blir lika. Denna knapp används normalt på den sista raden av verifikationen.</translation>
     </message>
-    <message category="lazy8" key="Select company/period">
+    <message category="lazy8" key="Select Company/Period for">
       <translation>Välj bolag/räkenskapsperiod</translation>
     </message>
     <message category="lazy8" key="&lt; Previous">
@@ -19710,6 +19743,9 @@ Detta är inte enbart SQL men inkluderar alias som ska ersättas med riktiga SQL
     </message>
     <message category="lazy8" key="Select a file and try again">
       <translation>Välj en fil och försök igen</translation>
+    </message>
+    <message category="lazy8" key="Select company/period">
+      <translation>Välj bolag/räkenskapsperiod</translation>
     </message>
     <message category="lazy8" key="Select Report">
       <translation>Välj rapport</translation>

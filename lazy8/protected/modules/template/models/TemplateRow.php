@@ -103,6 +103,7 @@ class TemplateRow extends CActiveRecord
 			'desc' => Yii::t('lazy8','Desc'),
 			'sortOrder' => Yii::t('lazy8','Sort Order'),
 			'isDebit' => Yii::t('lazy8','Is Debit'),
+			'isFinalBalance' => Yii::t('lazy8','Is final balance'),
 			'defaultAccountId' => Yii::t('lazy8','Default Account'),
 			'defaultValue' => Yii::t('lazy8','Default Value'),
 			'allowMinus' => Yii::t('lazy8','Allow Minus'),
